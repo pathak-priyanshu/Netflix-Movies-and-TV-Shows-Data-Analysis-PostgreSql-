@@ -42,4 +42,5 @@ select
 	  count(*) as Total_Content
 from netflix
 group by 1;
-```   
+```
+### Objective: Determine the distribution of content types on Netflix.
